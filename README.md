@@ -1,4 +1,3 @@
-# fanclub-modpacks
-there i did it you can stop yelling now
+# Rings on your Racers
 
-you need to look in branches for modpacks lol
+the txt file contains maps and other files github couldnt let me upload due to the Computer of my time
