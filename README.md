@@ -1,4 +1,2 @@
-# fanclub-modpacks
-there i did it you can stop yelling now
-
-you need to look in branches for modpacks lol
+# THE SRB2 BRANCH
+this is where i throw the misc mods and the ones we usually bring on sessions, it has the basic essentials
