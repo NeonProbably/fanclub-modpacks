@@ -1,4 +1,2 @@
-# fanclub-modpacks
-there i did it you can stop yelling now
-
-you need to look in branches for modpacks lol
+# BATTLEMOD
+I like battlemod, I will be leaving update notes here
