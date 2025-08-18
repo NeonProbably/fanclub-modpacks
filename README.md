@@ -1,4 +1,4 @@
-# fanclub-modpacks
-there i did it you can stop yelling now
+# CU-Online
+still under construction, will have all mods here at a later date
 
-you need to look in branches for modpacks lol
+..whenever that happens
