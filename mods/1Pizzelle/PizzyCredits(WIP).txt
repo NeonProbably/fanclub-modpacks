@@ -1,0 +1,113 @@
+-Lila: Original creator of Playable Pizzelle mod
+                                                            ~Pizzelle Additions~
+-Daedalend: Reuploaded the mod, sprite fixes and additions, garage sprites, garage granny texts
+-GryphonPT: Lapping Music
+-Ruby: The new director of the mod
+-GgBro: The original director of the mod. Also added new TVs, tiny icon , recolorable Tv, sprite fixes and additions, garage sprites, garage granny texts, 1 new palette, rank sprites, sandbox sprites.
+-Spliz: Rocket Transformation, Patterns, new sprites,
+-DrTieg: Garage Arm Sprite
+-Roundvii: New pizzelle's knight transformation sprites
+-Hell Encyclopedia: Patch for lap 4 music and helped with countless bugs (thanks man <3)
+-Traffizcones, MackNcheese, Madswag, Ruby, Thenoisewoag_(Fish), Ghostkyle95, Roundvii: Helping with sprites
+-NailsRails: Porting the effects for jumping off of a wall then landing, flower petals during an uppercut, and fireass boost, and made 1 lap 3 mashup
+-Chezcake: Made the settings menu and multiple lap songs
+-Ashley: Helped out/reworked the lap fmod stuff, icon switching, sugary secret palette, and removed herobrine
+-MackNCheese: Fixed fmod related issues 
+
+
+								~Composers~
+Lap 1:
+	-"Sugar Rush (Lila Mix)" // Lila
+	-"Sugar Rush (Exhibition Night)" // RodMod, CableChords, The8BitDrummer
+	-"Glucose Getaway" // Rodmod
+	-"Glucose Getaway (Construct)" // RodMod
+	-"Glucose Getaway (Bewitched! Remix)" // dexiedoo_octo
+	-"MIDI" // Lila
+	-"It's SugaryPizza Time!" // RexelisCool
+	-"Glucose Getaway! ("Demo 2" ver.)" // ???
+
+Lap 2:
+	-"The Sweet Release of Death (Exhibition Night)" // RodMod
+	-"The Sweet Release of Death (Demo 1 ver.)" // RodMod
+	-"The Sweet Release of Death ("Demo 2" ver.)" // ???
+	-"MIDI" // Lila
+	-"The Sweet Release of Jam" // NJA
+	-"I'm in The Thick of Death" // Chezcake
+
+Lap 3:
+	-"Clockin' Out Late (Sugary Spire UST)" // dexiedoo_octo
+	-"Harry's Despair-y (Bilk Mix) (Sugary Spire UST)" // BilkShaked
+	-"Harry's Despair-y (Sugary Spire UST)" // Inceptradom
+	-"UNEXPECTATION (Sugary Spire UST)" // Zeus_073
+	-"Sugarcube Hailstorm" // PaperKitty
+	-"Blue Licorice" // PaperKitty
+	-"KSI's Despair-y (Bilk Of It)" // NailsRails
+
+Lap 4:
+	-"Fructose Overdose (Sugary Spire UST)" // dexiedoo_octo
+	-"Extremely Crazioli" (Sugary Spire UST)" // Parpal The Lucifer, fieryrealnofakenorealomg
+	-"SENSORY OVERLOAD" // Key After Key (Originally used in the Roblox experience "Phighting", later used in Sugary Spire United)
+
+
+Pizza Tower Cheesed Up, Cheesed Up ModLoader +
+Pizza Tower Scoutdigo
+Pizza Tower Frenzy Worlds
+Sugary Spire Exhibition Night
+Sugary Spire Demo 1
+
+If im missing something, tell me, thank you for downloading
+
+
+
+
+
+   
+                      ..@@..                           .%@@@@:                   
+                   .*.......=                         *.......+.                 
+                 .+..........:%.                   .=...........%                
+                :-...............=.          ::=%%..............%                
+                :-..................%%-::%%:....................%                
+                :-.....................:::::::::.......::::.....%                
+                .=.................:+............=:..:-.....%-                   
+                  -:..............-:..............:==.........+:                 
+                     :#-.......:..#.................*..=@......::                
+                        ..----%-.=#..........-+.....=...........%                
+                     .#+:::::::::::#+...............+-..........#%%.             
+                   -=:::::::-=====:::::*-..........%::::#*----%:::@.             
+                 -+::::::=*@@@@@@@@@@@-::+##-----=.#::::::::#+-::+               
+                @::::::-@@@@@@@@@@@@@@@@@@@#=.......*:::::::::::::::=##-.        
+               :#::::-@@@@@@@@@@@@@@@@@@@@@+.......-@@-::::::::::::::::::*.      
+               +:::::*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#:::::::::::::::::::@      
+               =+::::@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%-::::::::::::::::::+     
+                .+=::@******%%%@@@@%##%@@@@@@@@@@@@@@@@@@%+:::::::::::::::::%    
+                   @:-#%*******#*%*******@@@@@@@@@@@@@@@-::+%-::::::::::::::%    
+                    +::::+*@%###*******#*@@@@@@@@@@@@@+::::# .+++::::::::::+     
+                    =+:::::::-*@%#***#%%@@@@@@@@@@@@@*::::+:         +****.      
+                     ..++::::::::*#@@@@@@@@@@@@@@@@#::::+-                       
+                         =****-::::::-*********:::::::+=                         
+                            *.+..-+-::::::::::::::::*+                           
+                          +@-.......-+*::::::::-@+                               
+                        +:-...............====:..++                              
+                      +: =-.......................:*                             
+                     #  .+..........................%*                           
+                     #  .-..........................:* =.                        
+                      --*:............................+*==                       
+                        @:............................-++:                       
+                       =-.=............................=.                        
+                .###   +...@:*..........................*                        
+               +......--##*..:=..........................*                       
+               +............=-............................@                      
+                  ---######-..............................@                      
+                      %....................................-                     
+                       :-*##.............................=-                      
+                             =@%%-.................*%@@#                         
+                             :@@@%    ::::::::::@@@@@@@                          
+                              %@@@@.           -@@@@@@.                          
+                               +@@@@           @@@@@@                            
+                                @@@@@         *@@@@@.                            
+                                 @@@@@:      @@@@@%                              
+                                  @@@@@     =@@@@.                               
+                 #@@@@@@@@@@@@@@@@@@@@@*    @@@@@@@@@@@@@@@@@@                   
+              .@@@@@@@@@@@@@@@@@@@@@@@@@   %@@@@@@@@@@@@@@@@@@@@@@@.             
+                       ........     ...     .......                             
+so this is the sugary spire, oooh i just cant wait to 

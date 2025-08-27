@@ -1,0 +1,11 @@
+# -----------------------------------
+# These will add entries to the "en" language
+# But you can also replace existing entries
+# Which is useful for character reskin mods
+# -----------------------------------
+lang = "en"
+
+# Make sure when you type in your modifiers name its all lowercase
+
+mod_title_ordinarymodifier = "Ordinary Modifier"
+mod_desc_ordinarymodifier = "Wait and see."

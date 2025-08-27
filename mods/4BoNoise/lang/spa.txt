@@ -1,0 +1,190 @@
+lang = "spa"
+
+# ------------------
+# WARNING!!!
+# Palette 2 is reserved for the freezerator pepper pizza skin overlay
+# Palettes 12, 13 and 14 are reserved for patterns and Fake Peppino
+# Every other palette (AFTER the default one) will be automatically added to the dresser
+# ------------------
+
+# ------------------
+# DRESSER PIZZELLE
+# ------------------
+PRONOUN_1M = "he"
+PRONOUN_2M = "him"
+PRONOUN_3M = "he's"
+PRONOUN_4M = "He's"
+PRONOUN_5M = "men"
+PRONOUN_1F = "she"
+PRONOUN_2F = "her"
+PRONOUN_3F = "she's"
+PRONOUN_4F = "She's"
+PRONOUN_5F = "women"
+PRONOUN_1X = "they"
+PRONOUN_2X = "them"
+PRONOUN_3X = "they're"
+PRONOUN_4X = "They're"
+PRONOUN_5X = "people"
+
+dresser_PZ1 = "Pizzelle"
+dresser_PZ1D = "Amarla o odiarla"
+
+dresser_PZ3 = "Noche de exhibición"
+dresser_PZ3D = "¿Valió los 250$?"
+
+dresser_PZ4 = "Pintor Rojo"
+dresser_PZ4D = "Esto me pone ansioso."
+
+dresser_PZ5 = "Pintor Negro"
+dresser_PZ5D = "¿Pero que?"
+
+dresser_PZ6 = "Pintor Purpura"
+dresser_PZ6D = "Esta cubierto con pintura, no lo toques."
+
+dresser_PZ7 = "Noise"
+dresser_PZ7D = "Hmm... Copyright Tour de Pizza"
+
+dresser_PZ8 = "Sugar"
+dresser_PZ8D = "Olvidé la razón por la que es verde."
+
+dresser_PZ9 = "Rivales"
+dresser_PZ9D = "Smash."
+
+dresser_PZ10 = "Goma"
+dresser_PZ10D = "No la mastiques, por favor."
+
+dresser_PZ11 = "Vieja Escuela"
+dresser_PZ11D = "También conocida como ... escala de grises."
+dresser_PZ7_mix = "ESCALA DE GRIS"
+
+dresser_PZ15 = "Zombificado"
+dresser_PZ15D = "Plantas contra combis..."
+dresser_PZ15_mix = "ZOMBIE"
+
+dresser_PZ16 = "Forestación"
+dresser_PZ16D = "Y pobres van aumentando."
+
+dresser_PZ17 = "Lamda"
+dresser_PZ17D = "Quien chota te conoce."
+dresser_PZ17_mix = "LAMDA"
+
+dresser_PZ18 = "Mago Gnomo"
+dresser_PZ18D = "Realmente tiene personalidad de un gremlin."
+dresser_PZ18_mix = "GNOMO"
+
+dresser_PZ19 = "Endulzado"
+dresser_PZ19D = "¡Saca ese caramelo de ahí!"
+dresser_PZ19_mix = "ENDULZADO"
+
+dresser_PZ20 = "Baston de Caramelo"
+dresser_PZ20D = "¡Ella es dulce ahora!"
+dresser_PZ20_mix = "CARAMELO"
+
+dresser_PZ21 = "Calabaza"
+dresser_PZ21D = "Ahora con un 30% menos de fibra."
+dresser_PZ21_mix = "Calabaza"
+
+dresser_PZ22 = "SAGE"
+dresser_PZ22D = "¡Oops me equivoce de exhibición!"
+
+dresser_PZ23 = "DOOM"
+dresser_PZ23D = "Doom ahora corre en ti"
+dresser_PZ23_mix = "Asesino"
+
+dresser_PZ24 = "Un tal Antonio"
+dresser_PZ24D = "Es la hora del postre!"
+dresser_PZ24_mix = "Rojo"
+
+dresser_PZ25 = "Scooter"
+dresser_PZ25D = "Convertir una esfera de afuera hacia adentro."
+dresser_PZ25_mix = "SCOOTER"
+
+dresser_PZ26 = "Azulrado"
+dresser_PZ26D = "Tambien conocido como: \"test\"."
+
+dresser_PZ27 = "Pintura"
+dresser_PZ27D = "Parece dibujado en MS Paint."
+dresser_PZ27_mix = "PINTURA"
+
+dresser_PZ28 = "Algodón de azúcar"
+dresser_PZ28D = "Me la quiero comer."
+dresser_PZ28_mix = "Algodón"
+
+dresser_PZ29 = "Manzana Verder"
+dresser_PZ29D = "El sabor de caramelo que menos te gusta."
+dresser_PZ29_mix = "SABURRAL"
+
+dresser_PZ30 = "Rata Tonta"
+dresser_PZ30D = "Una criatura de otro mundo en este caso."
+dresser_PZ30_mix = "RATA"
+
+dresser_PZ31 = "Pastel"
+dresser_PZ31D = "Suave para los ojos..."
+dresser_PZ31_mix = "PASTEL"
+
+dresser_PZ32 = "Rana Loca"
+dresser_PZ32D = "Ding ding!"
+dresser_PZ32_mix = "LOCO"
+
+dresser_PZ33 = "Fábrica"
+dresser_PZ33D = "POR FAVOR. TE LO RUEGO."
+dresser_PZ33_mix = "ARTIFICIAL"
+
+dresser_PZ34 = "Rosa áspero"
+dresser_PZ34D = "Subsalicilato de bismuto."
+dresser_PZ34_mix = "Rosa"
+
+dresser_PZ35 = "Sombra"
+dresser_PZ35D = "¡CALLATE!, mi PaDre trAbajA en el JueG0 y te dejara EMBARAZADO!1!1."
+dresser_PZ35_mix = "Sombra"
+
+# ------------------
+# DRESSER PATTERNS
+# ------------------
+pattern_brain = "Inteligente"
+pattern_brainD = "Enfrenta tu juicio."
+
+pattern_braingold = "Cerebro de oro"
+pattern_braingoldD = "Piensa bien"
+
+pattern_hazardous = "Hazardous"
+pattern_hazardousD = "¡Vuelve a trabajar!"
+
+pattern_steamy = "Lleno de Vapor"
+pattern_steamyD = "Creo que todos sabemos por qué lo llamaron Cottontown."
+
+pattern_mineshaft = "Elección de Fred"
+pattern_mineshaftD = "¿Referencia?"
+
+pattern_molasses = "Pijama de rana"
+pattern_molassesD = "Ahora puedes tener sueños húmedos."
+
+pattern_paper = "Computadora portátil"
+pattern_paperD = "¿Como esto afecta a Lebrom James?"
+
+pattern_alright = "Bro."
+pattern_alrightD = "Escuchame..."
+
+pattern_smooth = "Fluido"
+pattern_smoothD = "Pero no del todo..."
+
+pattern_lookingood = "Luciendo bueno"
+pattern_lookingoodD = "¡Gracias!"
+
+pattern_fruity = "Sabroso"
+pattern_fruityD = "Viejo sabroso...."
+
+pattern_mesmerizing = "Fascinante"
+pattern_mesmerizingD = "Realmente un espectáculo digno de contemplar."
+
+pattern_striking = "Llamativo"
+pattern_strikingD = "¡Mantén la calma con estos tonos!"
+
+pattern_soulcrushing = "Alma Aplastada"
+pattern_soulcrushingD = "Ouch..."
+
+pattern_awesome = "Impresionante"
+pattern_awesomeD = "Que guay."
+
+pattern_wtf = "WTF!!!"
+pattern_wtfD = "¡Piensen en los nenes!"

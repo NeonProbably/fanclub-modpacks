@@ -1,0 +1,32 @@
+{
+    "name": "Bacontu",
+    "default_palette": 1,
+    "color_array": [1, 2,6,7],
+ "mixable_palettes": [15,16, 17,18, 19, 20, 21,23,24,25,26,27,28,29,30,31,32, 33,34,35,36,37,38],
+    "sounds":
+    {
+"breakdancemusic": "event:/bacon2/breakdancemusic",
+        "taunt": "event:/bacon2/taunt",
+        "mach": "event:/bacon2/mach",
+      "voicemyea": "event:/bacon2/vfx/myea",
+"voiceok":  "event:/bacon2/vfx/ok",
+   "step": "event:/bacon2/step",
+        "jump": "event:/bacon2/jump",
+        "break": "event:/bacon2/break",
+        "machslideboost": "event:/bacon2/machslideboost",
+"voicehurt": "event:/bacon2/vfx/hurt",
+"fireass": "event:/bacon2/vfx/fireassB2",
+"voicetransfo": "event:/bacon2/vfx/transfo",
+"supertaunt": "event:/bacon2/supertaunt",
+"breakdance": "event:/bacon2/breakdance",
+"superjump": "event:/bacon2/superjump",
+"parry": "event:/bacon2/parry"
+    }
+  
+    
+  
+
+    
+  
+     
+}

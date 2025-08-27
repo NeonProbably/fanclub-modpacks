@@ -1,0 +1,5 @@
+Original author: Electro Pea
+
+Scoutdigo-like lapping code, HUD redrawing hints: Hell's Encyclopedia
+
+Death Mode+ options BG: Mr. Eefos

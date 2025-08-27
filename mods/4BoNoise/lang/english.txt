@@ -1,0 +1,35 @@
+lang = "en"
+
+# ------------------
+# WARNING!!!
+# Palette 2 is reserved for the freezerator pepper pizza skin overlay
+# Palettes 12, 13 and 14 are reserved for patterns and Fake Peppino
+# Every other palette (AFTER the default one) will be automatically added to the dresser
+# ------------------
+
+# ------------------
+# DRESSER PIZZELLE
+# ------------------
+PRONOUN_1M = "he"
+PRONOUN_2M = "him"
+PRONOUN_3M = "he's"
+PRONOUN_4M = "He's"
+PRONOUN_5M = "men"
+PRONOUN_1F = "she"
+PRONOUN_2F = "her"
+PRONOUN_3F = "she's"
+PRONOUN_4F = "She's"
+PRONOUN_5F = "women"
+PRONOUN_1X = "they"
+PRONOUN_2X = "them"
+PRONOUN_3X = "they're"
+PRONOUN_4X = "They're"
+PRONOUN_5X = "people"
+
+dresser_BO1 = "Bo Noise"
+dresser_BO1D = "The Bo-Ginning of The End."
+
+dresser_BO4 = "Pink Hat"
+dresser_BO4D = "I'm getting so VIRDESERT V2 right now."
+
+

@@ -1,0 +1,87 @@
+lang = "en"
+
+# ------------------
+# WARNING!!!
+# Palette 2 is reserved for the freezerator pepper pizza skin overlay
+# Palettes 12, 13 and 14 are reserved for patterns and Fake Peppino
+# Every other palette (AFTER the default one) will be automatically added to the dresser
+# ------------------
+dresser_B237= "Bacon0"
+dresser_B237D = "How did you dig so far?"
+dresser_B236= "Properly Pongled"
+dresser_B236D = "I feel a great sense of sponkle."
+dresser_B235= "i stepped in mug :("
+dresser_B235D = "I hope i can clean my clothes..."
+dresser_B234= "Butter8"
+dresser_B234D = "my new bacontu oc donut steal"
+dresser_B233= "Pink Clouds"
+dresser_B233D = "Looks like cotton."
+dresser_B232= "Mug Monolith Threads"
+dresser_B232D = "An ugly rock with eyes that looks like a cup. \nDont kill it, or else..."
+dresser_B231= "Exhibition Threads"
+dresser_B231D = "These feel usually expensive, like I'm about to\n drink fine wine and look at abstract art\n while pretending to understand what it means."
+dresser_B230= "Circus Threads"
+dresser_B230D = "Bring a smile to everyone's faces!!"
+dresser_B229 = "Pancetta's Threads"
+dresser_B229D = "Looks like caramel. I like it."
+dresser_B228 = "Pepperni's Threads"
+dresser_B228D = "Become the second playable character of Bacontu."
+dresser_B227 = "Beaker Threads"
+dresser_B227D = "Actually, it's a forest, not a backyard."
+dresser_B226 = "Shit City Threads"
+dresser_B226D = "Welcome to Rock Bottom, welcome to my shit city!\nLiving in a world so far away, and in my SHIT CITY!"
+dresser_B225 = "Griddly Threads"
+dresser_B225D = "is that flapjack gcc!?"
+dresser_B224 = "Pretzelfor"
+dresser_B224D = "Bacontu's evil cousin."
+dresser_B223 = "Mr. Smiles Threads"
+dresser_B223D = "Become the guy who scammed you\n to go into the Pizza Tower."
+dresser_B222 = "Smiley Threads"
+dresser_B222D = "If you poke Bacontu too many times, you win a prize!"
+dresser_B23 = "Blue Threads"
+dresser_B23D = "Baconbleu."
+dresser_B21 = "Bacontu"
+dresser_B21D = "Full name, Mildred Bacontu."
+dresser_B217 = "Bell Mo"
+dresser_B217D = "A Cheap Ripoff."
+dresser_B216 = "Old Bacon"
+dresser_B216D = "The one inbetween an older time, and the redemption."
+dresser_B218 = "Bacon1"
+dresser_B218D = "Skibidi Sigma!"
+dresser_B24 = "Brown Threads"
+dresser_B24D = "Now his name makes sense!"
+dresser_B25 = "Red Threads"
+dresser_B25D = "Ketchup stains."
+dresser_B215 = "Navy Threads"
+dresser_B215D = "I don't think he's a real person."
+//Embezzled Expedition
+dresser_B219 = "Embezzled Expedition Threads"
+dresser_B219D = "You bought 'em brand new, and never wore them."
+dresser_B220 = "Brian2"
+dresser_B220D = "What the Fuck"
+dresser_B221 = "Cup Threads"
+dresser_B221D = "I LOOVE drinking tea out of my Bacontu."
+dresser_B26 = "Pink Threads"
+dresser_B26D = "Looks like candy!"
+//siype rador
+
+
+dresser_B27 = "Purple Threads"
+dresser_B27D = "Holy Crackers."
+
+dresser_B28 = "Yellow Threads"
+dresser_B28D = "Don't make assumptions."
+
+dresser_B29 = "Orange Threads"
+dresser_B29D = "The colour or the fruit?"
+dresser_B210 = "Hued Threads"
+dresser_B210D = "Feels very childish."
+dresser_B211 = "Dodo Threads"
+dresser_B211D = "A Kind Loving Present."
+
+// FEELING BACONLY
+
+lang = "en"
+
+mod_title_baconfeel = "Feelin' Baconly"
+mod_desc_baconfeel = "Gives your character the moves of Bacon2 no matter of what character youre playing as."

@@ -1,0 +1,4 @@
+lang = "spa"
+
+mod_title_deathmode = "Modo Muerte"
+mod_desc_deathmode = "¡Evita Pizzaface en un tiempo muy ajustado!"

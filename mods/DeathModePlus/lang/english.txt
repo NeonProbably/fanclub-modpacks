@@ -1,0 +1,4 @@
+lang = "en"
+
+mod_title_deathmode = "Death Mode"
+mod_desc_deathmode = "Avoid Pizzaface within a very tight timer!"
