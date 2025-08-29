@@ -2,7 +2,7 @@
 Finally got this shit done, so unlike the other branches I'm gonna just include a basic "how to add" and some tips
 
 -HOW TO ADD MODS FROM THE GIT-
-replace the contents of the mods folder with the ones from the branch, then run the game.
+- replace the contents of the mods folder with the ones from the branch, then run the game.
 (or hit refresh ingame)
 
 -TIPS-
